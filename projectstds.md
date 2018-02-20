@@ -48,7 +48,7 @@ patterns color: text: 255-255-255, bg: 255-0-255
 
 #7 - _unused/temporary modules/patterns_
 
-modules color: cerulean
+modules color: cerulean __(the brightest from all shades of aquamarine)__
 
 patterns color: text: 255-255-255, bg: 0-255-255
 
