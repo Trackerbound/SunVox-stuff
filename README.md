@@ -8,7 +8,7 @@
 
 [A grain delay.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20Grain%20Delay.sunsynth)
 
-[A maximizer. Use it for mastering purposes. Maximizes to -4 RMS according to tests.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20GMaximizer.sunsynth)
+[A maximizer. Use it for mastering purposes. Maximizes to -4 RMS according to tests.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20Maximizer.sunsynth)
 
 [A simple filter that creates a feeling that you are listening to a radio.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20Radio%20Filter.sunsynth)
 
