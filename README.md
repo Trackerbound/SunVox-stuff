@@ -6,7 +6,7 @@
 
 [A detuner. Best fits for supersaws.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20Detuner.sunsynth)
 
-[A grain delay.](https://github.com/Trackerbound/SunVox-stuff/blob/masterEffects/TB%20Grain%20Delay.sunsynth)
+[A grain delay.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20Grain%20Delay.sunsynth)
 
 [A maximizer. Use it for mastering purposes. Maximizes to -4 RMS according to tests.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20GMaximizer.sunsynth)
 
