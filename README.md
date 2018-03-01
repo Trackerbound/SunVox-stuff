@@ -21,3 +21,5 @@
 ## Won't describe my instruments because i'm so lazy, please check them out manually.
 
 [My project standards: colouring and layers.](https://github.com/Trackerbound/SunVox-stuff/blob/master/projectstds.md)
+
+[My projects.](https://github.com/Trackerbound/SunVox-stuff/tree/master/Projects)
