@@ -16,7 +16,7 @@
 
 [3-band stereo imager.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20stereo%20imager.sunsynth)
 
-[A simple tool that would help you with mixing. Can play something that is close to a pink noise, switch stereo to mono and turn low/mid/high bands on/off. IT'S IN DEVELOPMENT AND NOT FINISHED YET! Please suggest something that i can implement in it.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20mixing%20assistant.sunsynth)
+[A simple tool that would help you with mixing. Can play something that is close to a pink noise, switch stereo to mono and turn low/mid/high bands on/off.](https://github.com/Trackerbound/SunVox-stuff/blob/master/Effects/TB%20mixing%20assistant.sunsynth)
 
 ## Won't describe my instruments because i'm so lazy, please check them out manually.
 
